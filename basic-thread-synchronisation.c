@@ -1,3 +1,7 @@
+/*Write a basic thread program to demonstrate synchronization semaphore.*/
+
+
+
 #include <stdio.h>
 #include <pthread.h>
 #include <semaphore.h>
